@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelalgranti
 - 👀 I’m interested in Artifitial Intelligence, anthropology and ghosts
-- 🌱 I’m currently learning angular and tensowflow
+- 🌱 I’m currently learning angular and tensorflow
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me miguel.algranti@gmail.com
 
